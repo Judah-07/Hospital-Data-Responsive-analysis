@@ -42,3 +42,7 @@ This project visualizes patient waitlist data from 2018 to 2021 across multiple 
 This dashboard aims to help healthcare administrators, planners, and policymakers monitor patient backlogs, optimize scheduling, and enhance service delivery by visualizing complex waitlist data in a simple, intuitive format.
 
 ---
+
+### **Dashboard**
+![hos pi ig](https://github.com/user-attachments/assets/3cc27c6d-ee7e-4e36-951d-fca6c1debe4a)
+
