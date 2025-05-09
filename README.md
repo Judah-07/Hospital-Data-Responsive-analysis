@@ -1,4 +1,3 @@
-Thanks, Judah! Based on the **hospital patient waitlist dashboard image** you provided and the **Accenture stock project format** you referenced, here’s a well-structured and professional content draft for your dashboard project:
 
 ---
 
